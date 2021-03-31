@@ -6,7 +6,7 @@
 
 - [Acuras Ltd](https://acuras.co.uk/) - My Education and Technology Consultancy 
 - [Red Hippo Virtual Academy](https://redhippo.academy/) - EdTech platform and school lessons for Ghana educational system
-- - Learner-centred EdTech platform for apprentices (stealth mode 🤣!)
+- Learner-centred EdTech platform for apprentices (stealth mode 🤣!)
 
 ### Learn More
 
