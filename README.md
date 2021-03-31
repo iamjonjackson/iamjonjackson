@@ -14,4 +14,4 @@
 
 💬 How to reach me: [Twitter](https://twitter.com/iamjonjackson) or [LinkedIn](https://www.linkedin.com/in/iamjonjackson/)
 
-⚡ Fun facts: I know British Sign Language (BSL) and I occasionally write [short fiction](https://medium.com/j-m-jackson-writes/my-writing-1f7ae057b815]).
+⚡ Fun facts: I know British Sign Language (BSL) and I occasionally write [short fiction](https://medium.com/j-m-jackson-writes/my-writing-1f7ae057b815).
