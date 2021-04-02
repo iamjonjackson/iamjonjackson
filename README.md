@@ -8,6 +8,11 @@
 - [Red Hippo Virtual Academy](https://redhippo.academy/) - EdTech platform and school lessons for Ghana educational system
 - Learner-centred EdTech platform for apprentices (stealth mode 🤣!)
 
+### Past Work
+
+- Co-founded, built and sold [Paperless Chits](https://paperlesschits.com) 
+- Co-founder and Technical Director of a digital marketing agency for ~6 years.
+
 ### Learn More
 
 ❓ Ask me about Higher Education (University), Tech Startups, EdTech, or anything else!
