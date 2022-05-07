@@ -5,8 +5,8 @@
 ### What I'm Working on
 
 - [Acuras Ltd](https://acuras.co.uk/) - My Education and Technology Consultancy 
-- [Red Hippo Virtual Academy](https://redhippo.academy/) - EdTech platform and school lessons for Ghana educational system
-- Learner-centred EdTech platform for apprentices (stealth mode 🤣!)
+- [Tresl Education](https://tresl.education/) - EdTech platform for UK apprenticeships
+- [NerdCow](https://nerdcow.co.uk/) - Advisor to the Founder of a cutting edge Agile Web Design agency based in London
 
 ### Past Work
 
