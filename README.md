@@ -10,7 +10,7 @@
 
 ### Past Work
 
-- Co-founded, built and sold [Paperless Chits](https://paperlesschits.com) 
+- Co-founded, built and sold [Paperless Chits](https://acuras.co.uk/tech-startup-disrupting-the-tv-film-industry/)
 - Co-founder and Technical Director of a digital marketing agency for ~6 years.
 
 ### Learn More
