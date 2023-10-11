@@ -4,9 +4,9 @@
 
 ### What I'm Working on
 
+- [MediLingo](https://medilingo.co.uk/) - Evidence-backed learning technology helping with the advance of global healthcare literacy
 - [Acuras Ltd](https://acuras.co.uk/) - My Education and Technology Consultancy 
 - [Tresl Education](https://tresl.education/) - EdTech platform for UK apprenticeships
-- [NerdCow](https://nerdcow.co.uk/) - Advisor to the Founder of a cutting edge Agile Web Design agency based in London
 
 ### Past Work
 
