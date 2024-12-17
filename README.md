@@ -17,6 +17,6 @@
 
 ❓ Ask me about Higher Education, Digital Technology, Large Language Models (LLMs), or anything else!
 
-💬 How to reach me: [BlueSky](https://bsky.app/profile/iamjonjackson.bsky.social) or [LinkedIn](https://www.linkedin.com/in/iamjonjackson/)
+💬 How to reach me: [Bluesky](https://bsky.app/profile/iamjonjackson.bsky.social) or [LinkedIn](https://www.linkedin.com/in/iamjonjackson/)
 
 ⚡ Fun facts: I know British Sign Language (BSL) and I occasionally write [short fiction](https://medium.com/j-m-jackson-writes/my-writing-1f7ae057b815).
